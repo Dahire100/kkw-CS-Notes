@@ -97,12 +97,16 @@ This repository aims to support students in learning and academic growth. It inc
 
 ## Practical Files
 
-- **Computer Concepts & Programming**: [View Practical](https://drive.google.com/your-file-link)
-- **Basics of Electronics & Electrical Engineering**: [View Practical](https://drive.google.com/your-file-link)
-- **ICT Workshop**: [View Practical](https://drive.google.com/your-file-link)
-- **Engineering Mathematics - 1**: [View Practical](https://drive.google.com/your-file-link)
-- **Engineering Physics - 1**: [View Practical](https://drive.google.com/your-file-link)
-
-
+- **C Programming**: [View Practical](https://drive.google.com/your-file-link)
+- **C++ Programming**: [View Practical](https://drive.google.com/your-file-link)
+- **Python Programming**: [View Practical](https://drive.google.com/your-file-link)
+- **Fundamentals of Data Structures**: [View Practical](https://drive.google.com/your-file-link)
+- **Programming Paradigms and Java Programming**: [View Practical](https://drive.google.com/your-file-link)
+- **Advanced Data Structures**: [View Practical](https://drive.google.com/your-file-link)
+- **Operating Systems**: [View Practical](https://drive.google.com/your-file-link)
+- **Computer Network**: [View Practical](https://drive.google.com/your-file-link)
+- **Database Management Systems**: [View Practical](https://drive.google.com/your-file-link)
+- **Design & Analysis of Algorithms**: [View Practical](https://drive.google.com/your-file-link)
+  
 ---
 **Created by Devendra Ahire**
