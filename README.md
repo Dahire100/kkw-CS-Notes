@@ -59,11 +59,11 @@ This repository aims to support students in learning and academic growth. It inc
 ## SEM 5
 | COURSE NAME                              | NOTES LINK                               | QUESTION PAPERS LINK                      |
 |-------------------------------------------|------------------------------------------|-------------------------------------------|
-| Artificial Intelligence                  | [View Notes](https://drive.google.com/your-file-link) | [View Question Papers](https://drive.google.com/your-file-link) |
-| Database Management Systems             | [View Notes](https://drive.google.com/your-file-link) | [View Question Papers](https://drive.google.com/your-file-link) |
-| Design & Analysis of Algorithms           | [View Notes](https://drive.google.com/your-file-link) | [View Question Papers](https://drive.google.com/your-file-link) |
-| Compute r Organization andArchitecture       | [View Notes](https://drive.google.com/your-file-link) | [View Question Papers](https://drive.google.com/your-file-link) |
-| Department Elective Course I (Computational Intelligence)| [View Notes](https://drive.google.com/your-file-link) | [View Question Papers](https://drive.google.com/your-file-link) |
+| Artificial Intelligence                  | [View Notes](https://drive.google.com/drive/folders/1G1T4dKpDi1xVVMF4WtaZzPd4G1RgLBKE?usp=drive_link) | [View Question Papers](https://drive.google.com/your-file-link) |
+| Database Management Systems             | [View Notes](https://drive.google.com/drive/folders/1Fysr6WRqVuTwfRwBFj2huZsdDRd6_hRM?usp=drive_link) | [View Question Papers](https://drive.google.com/your-file-link) |
+| Design & Analysis of Algorithms           | [View Notes](https://drive.google.com/drive/folders/1FyaIQ6auXc69FMa-sK9pLipgEL0n74RU?usp=drive_link) | [View Question Papers](https://drive.google.com/your-file-link) |
+| Compute r Organization andArchitecture       | [View Notes](https://drive.google.com/drive/folders/1G6LDto1jnLAXwIjgHJHPHlkkLHe8oLv2?usp=drive_link) | [View Question Papers](https://drive.google.com/your-file-link) |
+| Department Elective Course I (Computational Intelligence)| [View Notes](https://drive.google.com/drive/folders/1G-Vts8Y-cZ-Gh6fcoa-ZoLp4__53XLeA?usp=drive_link) | [View Question Papers](https://drive.google.com/your-file-link) |
 
 
 ## SEM 6
@@ -97,16 +97,17 @@ This repository aims to support students in learning and academic growth. It inc
 
 ## Practical Files
 
-- **C Programming**: [View Practical](https://drive.google.com/your-file-link)
-- **C++ Programming**: [View Practical](https://drive.google.com/your-file-link)
-- **Python Programming**: [View Practical](https://drive.google.com/your-file-link)
-- **Fundamentals of Data Structures**: [View Practical](https://drive.google.com/your-file-link)
-- **Programming Paradigms and Java Programming**: [View Practical](https://drive.google.com/your-file-link)
-- **Advanced Data Structures**: [View Practical](https://drive.google.com/your-file-link)
-- **Operating Systems**: [View Practical](https://drive.google.com/your-file-link)
-- **Computer Network**: [View Practical](https://drive.google.com/your-file-link)
-- **Database Management Systems**: [View Practical](https://drive.google.com/your-file-link)
-- **Design & Analysis of Algorithms**: [View Practical](https://drive.google.com/your-file-link)
+- **C Programming**: [View Practical](https://drive.google.com/drive/folders/1Xg2831ZVZTt9YBmSOUao8jwGgeJ9jwue?usp=sharing)
+- **C++ Programming**: [View Practical](https://drive.google.com/drive/folders/14jlFmRZLyiHywa6--PhE8Jf5WIoXC53K?usp=sharing)
+- **Python Programming**: [View Practical](https://drive.google.com/drive/folders/12QhlUvB0Y7J4MfuVhQJ8zJLF45Q8KTvV?usp=drive_link)
+- **Computer Network**: [View Practical](https://drive.google.com/drive/folders/17DZROFJoJlc1ROqHZWocOsYti9fEMh2w?usp=drive_link)
+- **Fundamentals of Data Structures**: [View Practical](https://drive.google.com/drive/folders/1pphI1BmzTTK44dSl3ZpJRQCZny0UymGL?usp=drive_link)
+- **Programming Paradigms and Java Programming**: [View Practical](https://drive.google.com/drive/folders/1y8iQWM7WKg0-TQsaGiy1KxBWFofgbXq6?usp=drive_link)
+- **Advanced Data Structures**: [View Practical](https://drive.google.com/drive/folders/1aKy5jl0MSNXkZ2v9z98yqEg6ueGzzMRB?usp=drive_link)
+- **Operating Systems**: [View Practical](https://drive.google.com/drive/folders/1ROIySnao1KnFTfugKuJtllDpvc8da5aD?usp=drive_link)
+- **Computer Network**: [View Practical](https://drive.google.com/drive/folders/1f60sVYWAEA2dWHxBlh40wi2wj_4_rppQ?usp=drive_link)
+- **Database Management Systems**: [View Practical](https://drive.google.com/drive/folders/1_KLAinvp9FR_5yjVR0kvMllaEo-iAvBD?usp=drive_link)
+- **Design & Analysis of Algorithms**: [View Practical](https://drive.google.com/drive/folders/1_JFoi9KcdfBMNQOstBq0WLLpYrAfu5bH?usp=drive_link)
   
 ---
 **Created by Devendra Ahire**
