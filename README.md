@@ -5,7 +5,7 @@
 This repository is designed to help students by providing notes, past question papers, and study materials for Computer Science and Engineering courses at KKE College.
 
 **Important! ✨**
-This repository aims to support students in learning and academic growth. It includes comprehensive reading materials and assignments, but students are encouraged to actively engage with these resources for the best learning outcome.
+This repository aims to support students in learning and academic growth. It includes comprehensive reading materials and assignments, but students are encouraged to actively engage with these resources for the best learning outcome.📚💻🎓
 
 ## Semester Details
 - [Sem 1](#sem-1)
