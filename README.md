@@ -1,6 +1,6 @@
 # KKE College B.Tech CS Notes & Materials 📚
 
-![College Image](path-to-image)
+![College Image]([path-to-image](https://github.com/Dahire100/CS-Notes/blob/main/kkw.jpeg))
 
 This repository is designed to help students by providing notes, past question papers, and study materials for Computer Science and Engineering courses at KKE College.
 
