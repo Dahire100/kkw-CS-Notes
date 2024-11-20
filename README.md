@@ -147,7 +147,8 @@ We value your contributions! Feel free to:
 ✅ Submit pull requests  
 ✅ Open issues for suggestions  
 ---
-## 👨💻 **Creator**
+## 👨💻 **Creator**  
 **Devendra Ahire**  
-🌐 [GitHub](https://github.com/Dahire100)
+🌐 [GitHub](https://github.com/Dahire100)  
+🌐 [LinkedIn](www.linkedin.com/in/devendra-ahire)  
 
