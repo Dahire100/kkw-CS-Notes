@@ -1,9 +1,9 @@
-# KKE College B.Tech CS Notes & Materials 📚
+# KKW College B.Tech CS Notes & Materials 📚
 
 ![College Image](https://github.com/Dahire100/CS-Notes/blob/main/kkw.jpeg)
 
 ## 🎓 **About This Repository**
-Welcome to the **KKE College Computer Science Repository** – a carefully curated resource hub designed for students pursuing **Computer Science and Engineering (CSE)**. Here, you'll find:
+Welcome to the **KKW College Computer Science Repository** – a carefully curated resource hub designed for students pursuing **Computer Science and Engineering (CSE)**. Here, you'll find:
 
 ✅ **Comprehensive Notes**  
 ✅ **Past Question Papers**  
