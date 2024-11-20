@@ -150,5 +150,5 @@ We value your contributions! Feel free to:
 ## 👨💻 **Creator**  
 **Devendra Ahire**  
 🌐 [GitHub](https://github.com/Dahire100)  
-🌐 [LinkedIn](www.linkedin.com/in/devendra-ahire)  
+🌐 [LinkedIn](https://www.linkedin.com/in/devendra-ahire)  
 
