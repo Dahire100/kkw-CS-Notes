@@ -96,8 +96,8 @@ Navigate through the resources for each semester:
 | Data Science and Big Data                   | [📘 View Notes](https://drive.google.com/drive/folders/1MqApVWh0ssWFNllqDIFzg5cKPntvGgaZ?usp=drive_link) | [📜 View Papers](https://drive.google.com/drive/folders/1C5TwZ4EKxSIKRBxepNQ38iVACuQYY5Jv?usp=drive_link) |
 | Game Design and Development                 | [📘 View Notes](https://drive.google.com/drive/folders/1MqrT8HfeSiv55GkqWMc9OGb3wS1M6oVM?usp=drive_link) | [📜 View Papers](https://drive.google.com/drive/folders/1MKz1rhI69igsm2R4GTFN1l3CSSZ1XHkK) |
 | Microcontrollers and Embedded Systems       | [📘 View Notes](https://drive.google.com/drive/folders/1Mqu7ge6P2dYQ6NrTj5ocA5orkzgwPkBF?usp=drive_link) | [📜 View Papers](https://drive.google.com/drive/folders/1MLUDWIp1toTZvAn5Gn_zXcj1DKVazmoS) |
-| Department Elective II (gen ai)                     | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/drive/folders/1dYwL0l-7mjPIPYDxYR0mv8DMiCLbQFYG) |
-| Department Elective III (cloud computing)                    | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/drive/folders/1d_GUPb5hw8eoEGCgv-Un1lVa5Ftkv-iS) |
+| Department Elective II (gen ai)                     | [📘 View Notes](https://drive.google.com/drive/folders/1dYwL0l-7mjPIPYDxYR0mv8DMiCLbQFYG) | [📜 View Papers](https://drive.google.com/drive/folders/1d_TzZPEiXULGRiMLfM0XJD8kYnijVulk) |
+| Department Elective III (cloud computing)                    | [📘 View Notes](https://drive.google.com/drive/folders/1d_GUPb5hw8eoEGCgv-Un1lVa5Ftkv-iS) | [📜 View Papers](https://drive.google.com/drive/folders/1d_YiZw1pCs4Ady7Lu8F84qbSWtTvFcGw) |
 
 🔗 **University Exam Paper**: [📥 Download Here](https://sppuquestionpapers.com/be/information-technology-engineering/semester-6)
 ---
