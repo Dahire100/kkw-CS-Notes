@@ -139,6 +139,8 @@ Navigate through the resources for each semester:
 - **Computer Network**: [💻 View Practical](https://drive.google.com/drive/folders/1f60sVYWAEA2dWHxBlh40wi2wj_4_rppQ?usp=drive_link)
 - **Database Management Systems**: [💻 View Practical](https://drive.google.com/drive/folders/1_KLAinvp9FR_5yjVR0kvMllaEo-iAvBD?usp=drive_link)
 - **Design & Analysis of Algorithms**: [💻 View Practical](https://drive.google.com/drive/folders/1_JFoi9KcdfBMNQOstBq0WLLpYrAfu5bH?usp=drive_link)
+- **DSBD and game development **: [💻 View Practical](https://drive.google.com/drive/folders/1WikC0BVYaZsHDnQSYcecby-xiyQeerzG)
+ - **CC and Gen Ai **: [💻 View Practical](https://drive.google.com/drive/folders/1Wq8GOjQmubcouGTFZrBxfpjzaQXX0mpi)
   
 ---
 ## 🤝 **Contributions & Feedback**
