@@ -23,7 +23,6 @@ Navigate through the resources for each semester:
 - [Sem 6](#sem-6)
 - [Sem 7](#sem-7)
 
-
 ---
 
 ## 📘 **Semester Details & Resources**
