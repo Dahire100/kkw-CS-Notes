@@ -130,7 +130,7 @@ Navigate through the resources for each semester:
 - **C Programming**: [💻 View Practical](https://drive.google.com/drive/folders/1Xg2831ZVZTt9YBmSOUao8jwGgeJ9jwue?usp=sharing)
 - **C++ Programming**: [💻 View Practical](https://drive.google.com/drive/folders/14jlFmRZLyiHywa6--PhE8Jf5WIoXC53K?usp=sharing)
 - **Python Programming**: [💻 View Practical](https://drive.google.com/drive/folders/12QhlUvB0Y7J4MfuVhQJ8zJLF45Q8KTvV?usp=drive_link)
-- **Computer Network**: [💻 View Practical](https://drive.google.com/drive/folders/17DZROFJoJlc1ROqHZWocOsYti9fEMh2w?usp=drive_link)
+- **Computer Graphics**: [💻 View Practical](https://drive.google.com/drive/folders/17DZROFJoJlc1ROqHZWocOsYti9fEMh2w?usp=drive_link)
 - **Fundamentals of Data Structures**: [💻 View Practical](https://drive.google.com/drive/folders/1pphI1BmzTTK44dSl3ZpJRQCZny0UymGL?usp=drive_link)
 - **Programming Paradigms and Java Programming**: [💻 View Practical](https://drive.google.com/drive/folders/1y8iQWM7WKg0-TQsaGiy1KxBWFofgbXq6?usp=drive_link)
 - **Advanced Data Structures**: [💻 View Practical](https://drive.google.com/drive/folders/1aKy5jl0MSNXkZ2v9z98yqEg6ueGzzMRB?usp=drive_link)
@@ -140,6 +140,7 @@ Navigate through the resources for each semester:
 - **Design & Analysis of Algorithms**: [💻 View Practical](https://drive.google.com/drive/folders/1_JFoi9KcdfBMNQOstBq0WLLpYrAfu5bH?usp=drive_link)
 - **DSBD and game development**: [💻 View Practical](https://drive.google.com/drive/folders/1WikC0BVYaZsHDnQSYcecby-xiyQeerzG)
  - **CC and Gen Ai**: [💻 View Practical](https://drive.google.com/drive/folders/1Wq8GOjQmubcouGTFZrBxfpjzaQXX0mpi)
+ - **Mobile Application Development**: [💻 View Practical](https://drive.google.com/drive/folders/1n_pCLgZ7V6um_SOhMM5l5SRujk3CKJAt)
   
 ---
 ## 🤝 **Contributions & Feedback**
