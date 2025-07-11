@@ -1,4 +1,4 @@
-# KKW College B.Tech CS Notes & Materials 📚
+# KKW College B.Tech CSD Notes & Materials 📚
 
 ![College Image](https://github.com/Dahire100/CS-Notes/blob/main/kkw.jpeg)
 
