@@ -104,11 +104,11 @@ Navigate through the resources for each semester:
 ## 📘 **SEM 7**
 | **Course Name**                              | **📄 Notes**                           | **📜 Question Papers**                   |
 |---------------------------------------------|----------------------------------------|------------------------------------------|
-| Augmented Reality and Virtual Reality       | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/your-file-link) |
-| User Interface/User Experience Design       | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/your-file-link) |
-| Department Elective Course IV               | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/your-file-link) |
-| Department Elective Course V                | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/your-file-link) |
-| Research Methodology                        | [📘 View Notes](https://drive.google.com/your-file-link) | [📜 View Papers](https://drive.google.com/your-file-link) |
+| Augmented Reality and Virtual Reality       | [📘 View Notes](https://drive.google.com/drive/folders/1Y6o0Eady6m9vElCSx6fr3SlQaQUF2IpX) | [📜 View Papers](https://drive.google.com/drive/folders/1YN_L7ZOBdwaCrkScJxIgVpSQU5Sk4XX-) |
+| User Interface/User Experience Design       | [📘 View Notes](https://drive.google.com/drive/folders/1Y71--a1CZIq5Sks3uAk4tSe5VfoekNbo) | [📜 View Papers](https://drive.google.com/drive/folders/1Z58LqKWTRgsH_uvMpLpHSVvTWi1ytuFN) |
+| Department Elective Course IV(Business intelligence and Analytics)           | [📘 View Notes](https://drive.google.com/drive/folders/1XvH-zBKd_Egh27C0QtVcZ7_I06L6TK7D) | [📜 View Papers](https://drive.google.com/drive/folders/1YYr6Hl8BRrMtHUTXUxJaKKANd8vyU-OM) |
+| Department Elective Course V(Deep learning)               | [📘 View Notes](https://drive.google.com/drive/folders/1XwCnSHazfBSlKvqkiX7wPWNgHb8DRp8u) | [📜 View Papers](https://drive.google.com/drive/folders/1YjXWO_xOIKi9ALCg5XMlOBgHQC_g7VZK) |
+| Research Methodology                        | [📘 View Notes](https://drive.google.com/drive/folders/1Y7Pdq0X2Tnse4q4tIqWlAxMvFm5F81vO) | [📜 View Papers](https://drive.google.com/drive/folders/1YsYnflCAGBohfgZStOpiBToZnuiiavsG) |
 
 🔗 **University Exam Paper**: [📥 Download Here](https://sppuquestionpapers.com/be/computer-engineering/semester-7)
 ---
@@ -141,6 +141,8 @@ Navigate through the resources for each semester:
 - **DSBD and game development**: [💻 View Practical](https://drive.google.com/drive/folders/1WikC0BVYaZsHDnQSYcecby-xiyQeerzG)
  - **CC and Gen Ai**: [💻 View Practical](https://drive.google.com/drive/folders/1Wq8GOjQmubcouGTFZrBxfpjzaQXX0mpi)
  - **Mobile Application Development**: [💻 View Practical](https://drive.google.com/drive/folders/1n_pCLgZ7V6um_SOhMM5l5SRujk3CKJAt)
+ - **UI UX Design**: [💻 View Practical](https://drive.google.com/drive/folders/1VlQ9UCbKXGGAakrqeAL-7vBF6o6K2Jgp)
+ - **AR VR**: [💻 View Practical](https://drive.google.com/drive/folders/1jwpsTvhhHnF2j-fKWVZCGZuo2FqvqkgO)
   
 ---
 ## 🤝 **Contributions & Feedback**
