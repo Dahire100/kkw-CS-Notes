@@ -1,6 +1,6 @@
 import { Semester, Practical, Contributor } from './types';
 
-export const HERO_IMAGE = "https://github.com/Dahire100/CS-Notes/blob/main/kkw.jpeg?raw=true";
+export const HERO_IMAGE = "https://github.com/Dahire100/kkw-CS-Notes//blob/main/kkw.jpeg?raw=true";
 export const REPO_LINK = "https://github.com/Dahire100/CS-Notes";
 export const UPLOAD_LINK = "https://drive.google.com/drive/folders/1jIvm8xAytDFvtrgA-MFiuz47Q8vcfaGR";
 
